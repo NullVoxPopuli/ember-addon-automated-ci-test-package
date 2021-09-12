@@ -69,10 +69,11 @@ jobs:
         ember-try-scenario:
           - ember-lts-3.24
           - ember-release
-          - ember-beta
-          - ember-canary
-          - embroider-safe
-          - embroider-optimized
+          # Big Matrix disabled because this is a test addon
+          # - ember-beta
+          # - ember-canary
+          # - embroider-safe
+          # - embroider-optimized
     steps:
       - uses: actions/checkout@v2
       - uses: volta-cli/action@v1

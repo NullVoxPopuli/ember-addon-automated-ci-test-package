@@ -5739,6 +5739,11 @@ elliptic@^6.5.3:
     minimalistic-assert "^1.0.1"
     minimalistic-crypto-utils "^1.0.1"
 
+ember-addon-automated-ci@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.npmjs.org/ember-addon-automated-ci/-/ember-addon-automated-ci-2.1.0.tgz#6861ad751e5a25ee1a9ad6d949c68fe14f189aaa"
+  integrity sha512-yAFbbJID4J+nzG0pzxzLm2nYEbTyLY+RLvEI9foa8vHFH/cDb9vRTQv7fgWKKRdzULnRLUGtTNyAZ76z4fgiwg==
+
 ember-auto-import@^1.10.1, ember-auto-import@^1.11.3:
   version "1.12.0"
   resolved "https://registry.npmjs.org/ember-auto-import/-/ember-auto-import-1.12.0.tgz#52246b04891090e2608244e65c4c6af7710df12b"

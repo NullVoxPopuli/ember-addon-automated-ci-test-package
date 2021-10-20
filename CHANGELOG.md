@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/NullVoxPopuli/ember-addon-automated-ci-test-package/compare/v1.0.1...v1.0.2) (2021-10-20)
+
+
+### Bug Fixes
+
+* **deps:** update dependency ember-cli-htmlbars to v6 ([cd24d59](https://github.com/NullVoxPopuli/ember-addon-automated-ci-test-package/commit/cd24d591d79df9fe83980043f742b66977e07b02))
+
 ## [1.0.1](https://github.com/NullVoxPopuli/ember-addon-automated-ci-test-package/compare/v1.0.0...v1.0.1) (2021-09-12)
 
 

@@ -41,7 +41,7 @@
     "@glimmer/component": "^1.0.4",
     "@glimmer/tracking": "^1.0.4",
     "@nullvoxpopuli/eslint-configs": "^2.2.7",
-    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "@types/ember-qunit": "^5.0.0",
     "@types/ember-resolver": "^5.0.10",
@@ -97,7 +97,7 @@
     "prettier": "^2.5.1",
     "qunit": "^2.17.2",
     "qunit-dom": "^2.0.0",
-    "semantic-release": "^19.0.2",
+    "semantic-release": "^19.0.5",
     "typescript": "^4.5.5"
   },
   "release": {
